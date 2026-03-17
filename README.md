@@ -1,6 +1,6 @@
 # DINOv2 Product Classifier
 
-Testing DINOv2 (Meta, 2023) on product classification. Frozen ViT-S/14 backbone with a linear head. 95.7% test accuracy across 30 classes in 10 epochs.
+Testing DINOv2 (Meta, 2023) on (product) image classification. Frozen ViT-S/14 backbone with a linear head. 95.7% test accuracy across 30 classes in 10 epochs.
 
 ## Dataset
 
